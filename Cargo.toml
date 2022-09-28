@@ -6,5 +6,6 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+dotenv = "0.15.0"
 roux = "2.2.1"
-reqwest = "0.11.12"
+reqwest = "0.11.11"
