@@ -8,4 +8,5 @@ edition = "2021"
 [dependencies]
 dotenv = "0.15.0"
 roux = "2.2.1"
+rpassword = "0.0.4"
 reqwest = "0.11.11"
